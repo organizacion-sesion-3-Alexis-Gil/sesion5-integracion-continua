@@ -6,7 +6,7 @@ def suma(x,y):
 
 def esPar(numero):
     if(numero % 2 == 0):
-        return true
+        return True
     else:
-        return false
+        return False
 
